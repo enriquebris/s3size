@@ -21,7 +21,7 @@ s3size is currently tested on:
  2. Windows 10 (64-bit)
  3. Ubuntu Linux 14.04 (64-bit)
 
- **Note:** In order to get better performance the suggestion is: run it directly inside an AWS box.
+**Note:** In order to get better performance the suggestion is: run it directly inside an AWS box.
 
 ### Usage
 

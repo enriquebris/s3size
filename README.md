@@ -1,11 +1,7 @@
 # s3size . Amazon S3 Bucket size calculator
-## cli tool to calculate an Amazon S3 bucket size (or any path into a S3 bucket)
+## cli tool to calculate an Amazon S3 bucket size (or any path inside a S3 bucket)
 
-### Installation
-Make sure you have a working Go environment
-```
-go get
-```
+
 
 ### Usage
 

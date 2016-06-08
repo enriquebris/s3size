@@ -35,10 +35,8 @@ func getBucketList(bucketname string, key string, secret string, region aws.Regi
 	lastKey := ""
 
 	s3ftotal := &s3Files{}
-	total := 0
 
 	for more {
-		total++
 		lastKey = processBucketList(lr, s3ftotal)
 		if lr.IsTruncated {
 
